@@ -1,5 +1,5 @@
 # MBTdelay
-MBTdelay builds machine learning models using LightGBM to calculate delay forecasting on the MBTA's Green Line using LightGBM based models and DarkSky weather predicitons. 
+MBTdelay builds machine learning models using LightGBM to calculate delay forecasting on the MBTA's Green Line. 
 
 
 ### Prerequisites
@@ -29,7 +29,7 @@ To build dataset and models, MBTdelay's workflow is as follows:
 ``model_LightGBM.ipynb`` contains the model training and saving for the LightGBM model.
 
 ## Author
-* **Mark Mace** - [GitHub](https://github.com/markfmace) - [Website](https://mbtdelay.xyz)
+* **Mark Mace** - [email](mailto:mark.f.mace@gmail.com) - [GitHub](https://github.com/markfmace) - [Website](https://mbtdelay.xyz)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
