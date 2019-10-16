@@ -1,6 +1,8 @@
 # MBTdelay
 MBTdelay builds machine learning models using LightGBM to calculate delay forecasting on the MBTA's Green Line. 
 
+### Note: 10/15/2019
+There have been recent issues with GitHub rendering Jupyter notebooks. If a notebook fails to load and gives the message "Sorry, something went wrong. Reload?", the notebook is still viewable using [https://nbviewer.jupyter.org](https://nbviewer.jupyter.org/). Apologies for the inconvenience.
 
 ### Prerequisites
 
